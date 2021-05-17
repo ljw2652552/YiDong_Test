@@ -13,6 +13,7 @@ public class Test {
 //        xipai(10);
 //        bublleSort(new int[]{1,2,3});
         System.out.println("hello git!!");
+        System.out.println("hello git222!!");
 
     }
 
