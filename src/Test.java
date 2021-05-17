@@ -20,6 +20,7 @@ public class Test {
         System.out.println("hot-fix test!!");
         System.out.println("push test!!!!!!");
         System.out.println("pull test!!!!!!");
+        System.out.println("pull test22222222222!!!!!!");
     }
 
     private static void bublleSort(int[] ints) {
